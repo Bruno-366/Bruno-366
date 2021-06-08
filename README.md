@@ -2,7 +2,7 @@
 - 👀 I’m interested in [PLT] and [OSDev]
 - 🌱 I’m currently learning formal methods
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [@forward.lang] on Instagram
+- 📫 How to reach me: [@forward.lang] on Instagram
 
 [PLT]: https://github.com/marcpaq/b1fipl
 [OSDev]: https://github.com/topics/osdev
