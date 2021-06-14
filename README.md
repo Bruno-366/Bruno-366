@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 # GitHub Stats
 
-[![Bruno-366's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Bruno-366&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR))](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno-366's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Bruno-366&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Langs
 
