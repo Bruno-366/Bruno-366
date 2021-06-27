@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 Sometimes,
 when I'm bored I play with languages on my private repo.  
-(It's private becuase it has answers to code challenges, and I don't want to spoil the fun)
+(It's private becuase it has answers to code challenges, and I don't want to spoil the fun for others)
 
 Today (DD/MM/YYYY: 17/06/2021) the repo's language usage looks like this:
 
