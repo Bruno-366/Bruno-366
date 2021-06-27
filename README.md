@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-366)](https://github.com/anuraghazra/github-readme-stats)
 
-Sometimes when I'm bored,
-I play with languages on my private repo.  
+Sometimes,
+when I'm bored I play with languages on my private repo.  
 (It's private becuase it has answers to code challenges, and I don't want to spoil the fun)
 
 Today (DD/MM/YYYY: 17/06/2021) the repo's language usage looks like this:
