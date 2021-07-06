@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Bruno-366
-- 👀 I’m interested in [PLT] and [OSDev]
+- 👀 I’m interested in [Programming Language Theory] and [Operating System Development]
 - 🌱 I’m currently learning formal methods
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [@forward.lang] on Instagram
 
-[PLT]: https://github.com/marcpaq/b1fipl
-[OSDev]: https://github.com/topics/osdev
+[Programming Language Theory]: https://github.com/marcpaq/b1fipl
+[Operating System Development]: https://github.com/topics/osdev
 [@forward.lang]: https://www.instagram.com/forward.lang/
 
 <!---
