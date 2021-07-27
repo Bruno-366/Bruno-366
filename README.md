@@ -2,11 +2,14 @@
 - 👀 I’m interested in [Programming Language Theory] and [Operating System Development]
 - 🌱 I’m currently learning formal methods
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: [@forward.lang] on Instagram
+- 📫 How to reach me:
+  - [@bruno-366] on matrix
+  - [@forward.lang] on Instagram
 
 [Programming Language Theory]: https://github.com/marcpaq/b1fipl
 [Operating System Development]: https://github.com/topics/osdev
 [@forward.lang]: https://www.instagram.com/forward.lang/
+[@bruno-366]: https://matrix.to/#/@bruno-366:matrix.org
 
 <!---
 Bruno-366/Bruno-366 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
