@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in [Programming Language Theory] and [Operating System Development]
 - 🌱 I’m currently learning formal methods
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on [#Forward-Lang]
 - 📫 How to reach me:
   - [@bruno-366] on matrix
   - [@forward.lang] on Instagram
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Language Theory
-### Foward-Lang
+### Forward-Lang ☚ My pet project
 
 [![Forward-Lang/forward - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=forward)](https://github.com/Forward-Lang/forward)
 [![Forward-Lang/project-management - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=project-management)](https://github.com/Forward-Lang/project-management)
