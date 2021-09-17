@@ -35,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Forward-Lang ☚ My pet project
 
-[![Forward-Lang/forward - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=forward)](https://github.com/Forward-Lang/forward)
-[![Forward-Lang/project-management - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=project-management)](https://github.com/Forward-Lang/project-management)
+[![Forward-Lang/forward - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=forward&show_owner=true)](https://github.com/Forward-Lang/forward)
+[![Forward-Lang/project-management - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=project-management&show_owner=true)](https://github.com/Forward-Lang/project-management)
 
 ## Operating System Development
 
@@ -52,8 +52,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Arch-Linux
 
-[![Bruno-366/Arch-Install - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=Arch-Install)](https://github.com/Bruno-366/Arch-Install)
-[![Bruno-366/dotfiles - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=dotfiles)](https://github.com/Bruno-366/dotfiles)
+[![Bruno-366/Arch-Install - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=Arch-Install&show_owner=true)](https://github.com/Bruno-366/Arch-Install)
+[![Bruno-366/dotfiles - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=dotfiles&show_owner=true)](https://github.com/Bruno-366/dotfiles)
 
 <!--
 ## GitHub Stats & Top Langs
