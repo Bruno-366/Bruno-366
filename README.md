@@ -17,9 +17,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Programming Language Theory
 
-starred repos: [b1fipl]
-
-[b1fipl]: https://github.com/marcpaq/b1fipl
+**starred repos:**
+- [Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl)
+- [Learn APL](https://github.com/xpqz/learnapl)
+- [easyforth](https://github.com/skilldrick/easyforth): Learn Forth!
+- [StoneKnifeForth](https://github.com/kragen/stoneknifeforth): tiny self-hosted Forth implementation
+- [skov](https://github.com/nicolas-p/skov): a visual programming environment based on Factor 
+- literate programming:
+  - [lit](https://github.com/vijithassar/lit): extracts code from Markdown files
+  - [asciibuild](https://github.com/jbrisbin/asciibuild): Literate Programming extensions for Asciidoctor
 
 ### Forward-Lang ☚ My pet project
 
@@ -27,6 +33,11 @@ starred repos: [b1fipl]
 [![Forward-Lang/project-management - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=project-management)](https://github.com/Forward-Lang/project-management)
 
 ## Operating System Development
+
+**starred repos:**
+- [vinix](https://github.com/vlang/vinix)
+- [heads](https://github.com/osresearch/heads): the other side of TAILS
+
 ### Arch-Linux
 
 [![Bruno-366/Arch-Install - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=Arch-Install)](https://github.com/Bruno-366/Arch-Install)
