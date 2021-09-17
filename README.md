@@ -17,6 +17,19 @@ Bruno-366/Bruno-366 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## Programming Language Theory
+### Foward-Lang
+
+[![Forward-Lang/forward - GitHub](https://gh-card.dev/repos/Forward-Lang/forward.svg?fullname=)](https://github.com/Forward-Lang/forward)
+[![Forward-Lang/project-management - GitHub](https://gh-card.dev/repos/Forward-Lang/project-management.svg?fullname=)](https://github.com/Forward-Lang/project-management)
+
+## Operating System Development
+### Arch-Linux
+
+[![Bruno-366/Arch-Install - GitHub](https://gh-card.dev/repos/Bruno-366/Arch-Install.svg?fullname=)](https://github.com/Bruno-366/Arch-Install)
+[![Bruno-366/dotfiles - GitHub](https://gh-card.dev/repos/Bruno-366/dotfiles.svg?fullname=)](https://github.com/Bruno-366/dotfiles)
+
+<!--
 ## GitHub Stats & Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-366)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,3 +42,5 @@ when I'm bored I play with languages on my private repo.
 Today (DD/MM/YYYY: 17/06/2021) the repo's language usage looks like this:
 
 ![image](https://user-images.githubusercontent.com/81762173/122386935-a6feca00-cf6e-11eb-93a6-72de075f755c.png)
+
+-->
