@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bruno-366
+# 👋 Hi, I’m [@Bruno-366](https://github.com/Bruno-366)
+
 - 👀 I’m interested in [Programming Language Theory] and [Operating System Development]
 - 🌱 I’m currently learning formal methods
 - 💞️ I’m looking to collaborate on ...
@@ -16,13 +17,10 @@ Bruno-366/Bruno-366 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# GitHub Stats
-
-[![Bruno-366's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Bruno-366&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Langs
+## GitHub Stats & Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-366)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno-366's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Bruno-366&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 Sometimes,
 when I'm bored I play with languages on my private repo.  
