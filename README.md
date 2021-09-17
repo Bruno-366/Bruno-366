@@ -1,14 +1,12 @@
 # 👋 Hi, I’m [@Bruno-366](https://github.com/Bruno-366)
 
-- 👀 I’m interested in [Programming Language Theory] and [Operating System Development]
+- 👀 I’m interested in [Programming Language Theory](#programming-language-theory) and [Operating System Development](#operating-system-development)
 - 🌱 I’m currently learning formal methods
-- 💞️ I’m looking to collaborate on [#Forward-Lang]
+- 💞️ I’m looking to collaborate on [Forward-Lang ☚ My pet project](#forward-lang--my-pet-project)
 - 📫 How to reach me:
   - [@bruno-366] on matrix
   - [@forward.lang] on Instagram
 
-[Programming Language Theory]: https://github.com/marcpaq/b1fipl
-[Operating System Development]: https://github.com/topics/osdev
 [@forward.lang]: https://www.instagram.com/forward.lang/
 [@bruno-366]: https://matrix.to/#/@bruno-366:matrix.org
 
@@ -18,6 +16,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Language Theory
+
+starred repos: [b1fipl]
+
+[b1fipl]: https://github.com/marcpaq/b1fipl
+
 ### Forward-Lang ☚ My pet project
 
 [![Forward-Lang/forward - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=forward)](https://github.com/Forward-Lang/forward)
