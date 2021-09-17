@@ -18,14 +18,20 @@ You can click the Preview link to take a look at your changes.
 ## Programming Language Theory
 
 **starred repos:**
-- [Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl)
-- [Learn APL](https://github.com/xpqz/learnapl)
-- [easyforth](https://github.com/skilldrick/easyforth): Learn Forth!
-- [StoneKnifeForth](https://github.com/kragen/stoneknifeforth): tiny self-hosted Forth implementation
-- [skov](https://github.com/nicolas-p/skov): a visual programming environment based on Factor 
+- books:
+  - [Learn APL](https://github.com/xpqz/learnapl)
+  - [easyforth](https://github.com/skilldrick/easyforth): Learn Forth!
+- minimal implementations:
+  - [Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl)
+  - [mal](https://github.com/kanaka/mal): Make a Lisp
+  - [StoneKnifeForth](https://github.com/kragen/stoneknifeforth): tiny self-hosted Forth implementation
 - literate programming:
   - [lit](https://github.com/vijithassar/lit): extracts code from Markdown files
   - [asciibuild](https://github.com/jbrisbin/asciibuild): Literate Programming extensions for Asciidoctor
+- innovative language:
+  - [skov](https://github.com/nicolas-p/skov): a visual programming environment based on Factor
+  - [factor](https://github.com/factor/factor)
+  - [pharo](https://github.com/pharo-project/pharo): live programming inspired by Smalltalk
 
 ### Forward-Lang ☚ My pet project
 
@@ -37,6 +43,12 @@ You can click the Preview link to take a look at your changes.
 **starred repos:**
 - [vinix](https://github.com/vlang/vinix)
 - [heads](https://github.com/osresearch/heads): the other side of TAILS
+- [lfs-me](https://github.com/FSMaxB/lfs-me): Linux from Scratch made (more) easy
+- [tldrlfs](https://github.com/comfies/tldrlfs): Too Long; Didn't Read Linux From Scratch
+- [HALT](https://github.com/augustl/halt): OS where everything is immutable!
+- [GaryOS](https://github.com/garybgenett/gary-os): an entire GNU/Linux system in a single bootable file
+- [distri](https://github.com/distr1/distri): a Linux distribution to research fast package management 
+- [glaucus](https://github.com/glaucuslinux/glaucus): An independent Linux distribution built from scratch
 
 ### Arch-Linux
 
