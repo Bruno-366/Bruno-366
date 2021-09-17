@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
 ## Programming Language Theory
 ### Foward-Lang
 
-[![Forward-Lang/forward - GitHub](https://gh-card.dev/repos/Forward-Lang/forward.svg?fullname=)](https://github.com/Forward-Lang/forward)
-[![Forward-Lang/project-management - GitHub](https://gh-card.dev/repos/Forward-Lang/project-management.svg?fullname=)](https://github.com/Forward-Lang/project-management)
+[![Forward-Lang/forward - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=forward)](https://github.com/Forward-Lang/forward)
+[![Forward-Lang/project-management - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Forward-Lang&repo=project-management)](https://github.com/Forward-Lang/project-management)
 
 ## Operating System Development
 ### Arch-Linux
 
-[![Bruno-366/Arch-Install - GitHub](https://gh-card.dev/repos/Bruno-366/Arch-Install.svg?fullname=)](https://github.com/Bruno-366/Arch-Install)
-[![Bruno-366/dotfiles - GitHub](https://gh-card.dev/repos/Bruno-366/dotfiles.svg?fullname=)](https://github.com/Bruno-366/dotfiles)
+[![Bruno-366/Arch-Install - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=Arch-Install)](https://github.com/Bruno-366/Arch-Install)
+[![Bruno-366/dotfiles - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-366&repo=dotfiles)](https://github.com/Bruno-366/dotfiles)
 
 <!--
 ## GitHub Stats & Top Langs
