@@ -1,6 +1,9 @@
 # BRUNO ARIAS
 BUSINESS DEVELOPER
 
+![My_Profile_Pic](https://user-images.githubusercontent.com/81762173/137401690-817980a2-abe7-49be-af10-51ef966b231e.png)
+
+
 ## WORK EXPERIENCE
 
 ### President
@@ -63,5 +66,5 @@ CLASS OF 2021
 
 ## CONTACT INFORMATION
 
-* LinkedIn: @bruno-arias
-* GitHub: @Bruno-366
+* LinkedIn: [@bruno-arias](https://www.linkedin.com/in/bruno-arias/)
+* GitHub: [@Bruno-366](https://github.com/Bruno-366)
