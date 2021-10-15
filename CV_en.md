@@ -3,8 +3,6 @@ BUSINESS DEVELOPER
 
 ![My_Profile_Pic](https://user-images.githubusercontent.com/81762173/137401690-817980a2-abe7-49be-af10-51ef966b231e.png)
 
-<link rel="stylesheet" href="my_style.css">
-
 ## WORK EXPERIENCE
 
 ### President
