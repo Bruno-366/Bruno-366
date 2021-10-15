@@ -1,7 +1,7 @@
 # BRUNO ARIAS
 BUSINESS DEVELOPER
 
-![My_Profile_Pic](https://user-images.githubusercontent.com/81762173/137401690-817980a2-abe7-49be-af10-51ef966b231e.png)
+![My_Profile_Pic](https://user-images.githubusercontent.com/81762173/137497900-a089a9ed-a70c-4c72-aed1-dba01adcfeb5.png)
 
 ## WORK EXPERIENCE
 
