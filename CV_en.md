@@ -22,7 +22,7 @@ DEC 2018 TO JUN 2019
 - [X] Helped develop a new graphical profile for the marketing
 - [X] Assisted with the digital marketing done mainly through Facebook events
 
-### Assitant
+### Assistant
 INTERNATIONAL LIFE SCIENCES INSTITUTE
 JUN 2014 TO AUG 2014
 
