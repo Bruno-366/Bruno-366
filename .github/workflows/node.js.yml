@@ -13,9 +13,9 @@ jobs:
       with:
         node-version: 16.x
         cache: 'npm'
+    - run: npm install stylus -g
+    - run: stylus *.styl 
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
-    - run: npm install stylus -g
-    - run: stylus *.styl 
 
