@@ -36,4 +36,5 @@ jobs:
         git checkout --orphan build
         ##git switch --force-create build --orphan
         git commit --message="Compile Stylus to CSS and Slim to HTML" --allow-empty
-        git push
+        ##git push
+        git push --set-upstream origin build
