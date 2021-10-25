@@ -1,2 +1,103 @@
+// Color:
+a = #49516B
+b = #1D3455
+
 body
-  color: red
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)
+  color: a
+
+  h1, h2, h3
+    color: b
+
+  hr
+    border: solid
+    color: b
+
+@media screen
+  // code-like
+  body
+    font-family: monospace, monospace
+
+    h2::before, h3::before
+      content: '#'
+
+    ul
+      list-style: none
+      padding-left: 0
+
+    ul li:before
+      content: '✓'
+
+  // margin
+  body
+    max-width: 80%
+    margin: auto
+
+    main > h2
+      text-align: center
+
+  // Layout:
+  // Default Layout:
+  #true_header
+    display: flex
+    flex-direction: row
+    gap: 2em
+
+    #title
+      flex-grow: 1
+
+    img
+      margin: 1em
+      object-fit: contain
+      border-radius: 50%
+      max-height: 30vh
+
+  aside
+    display: flex
+    flex-direction: column
+    gap: 2em
+
+  body
+    display: flex
+    flex-direction: column
+    gap: 2em
+
+  // Really small Layout:
+  @media (max-width: 400px)
+    #true_header
+      flex-direction: column
+
+      #profile_pic
+        border-radius: 0%
+
+  // Medium Layout:
+  @media (min-width: 770px)
+    aside
+      flex-direction: row
+
+  // Large Layout:
+  @media (min-width: 1000px)
+    body
+      flex-direction: row
+
+    aside
+      flex-direction: column
+
+// Print Layout:
+@media print
+  @page
+    size: A4 portrait
+
+  #profile_pic
+    border-radius: 50%
+    width: 100%
+
+  body
+    column-width: 17em
+    column-gap: 3em
+
+  main
+    break-before: always
+
+  section.job
+    break-inside: avoid
